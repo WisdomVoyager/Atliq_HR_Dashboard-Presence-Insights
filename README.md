@@ -16,17 +16,20 @@ The dataset utilized in this project consists of employee presence data for thre
 
 The project encompassed the following objectives:
 
-Data Acquisition and Transformation:
+## Data Acquisition and Transformation:
+
 a. Collect employee presence data from three separate Excel spreadsheets, each representing a month's worth of data.
 
 b. Consolidate the data into a single, unified dataset using Power Query's data merging and transformation capabilities.
 
-Data Analysis and Visualization:
+## Data Analysis and Visualization:
+
 a. Perform data analysis using DAX measures to calculate key metrics such as working preference percentages, attendance rates, sick leave reasons, and seasonal patterns.
 
 b. Create interactive and informative visualizations using Power BI's charting and table functionalities.
 
-Dashboard Development:
+## Dashboard Development:
+
 a. Design and develop a comprehensive Power BI dashboard that effectively communicates the insights derived from data analysis.
 
 b. Implement interactive filters and drill-down capabilities to enable users to explore the data at various levels of granularity.
