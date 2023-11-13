@@ -35,8 +35,11 @@ The project utilized three separate Excel files, each containing one month of em
 # DAX measures were employed to calculate key metrics such as:
 
 Working Preference Percentage: A measure to determine the percentage of employees working from home or in the office.
+
 Attendance Percentage: A measure to calculate the percentage of employees present on a given day, week, or month.
+
 Sick Leave Reasons: A measure to identify the number of employees taking sick leave for each reason.
+
 Sick Leave Patterns: A measure to detect patterns in sick leave, such as seasonal fluctuations or spikes around specific dates.
 
 # Impact
