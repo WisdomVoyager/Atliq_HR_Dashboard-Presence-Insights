@@ -6,7 +6,7 @@ The Power BI report can be found here -https://www.novypro.com/project/atliq-hr-
 
 # Overview
 
-This project involved the development of a Power BI dashboard to provide Atliq Technologies with actionable insights into employee presence data. The dashboard enables HR managers to understand employee working preferences, attendance patterns, and sick leave trends, facilitating informed decision-making to enhance employee engagement, optimize resource allocation, and promote health and safety initiatives.
+This project involved the development of a Power BI dashboard to provide Atliq Technologies with actionable insights into employee presence data. The dashboard enables HR managers to understand employee working preferences, attendance patterns, and sick leave trends, facilitating informed decision-making to enhance employee engagement, optimize resource allocation, and promote health and safety initiatives. Dataset and help taken from Codebasics.
 
 # Data Set Description
 
